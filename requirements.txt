@@ -1,0 +1,21 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib
+fastapi>=0.95.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+streamlit>=1.28.0
+requests>=2.31.0
+pyarrow>=12.0.0
+shap>=0.42.0
+openai>=1.0.0
+pyyaml>=6.0
+faiss-cpu>=1.7.4
+
+# dotenv for loading .env files
+python-dotenv
+
+# Deep learning / training
+torch
+tqdm
