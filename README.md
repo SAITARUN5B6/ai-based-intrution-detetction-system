@@ -1,7 +1,7 @@
 # AI-Based Real-Time Intrusion Detection & Automated Response System (IDRS)
 
 **Enterprise-Grade · Production-Ready · Research-Level Implementation**  
-**Author:** Vamshi Krishna  
+**Author:** Sai Tarun Yamala & Vamshi Krishna  
 **Program:** Master’s in Cybersecurity & Artificial Intelligence  
 **Completion Date:** November 19, 2025  
 **Status:** Fully Operational · Actively Maintained ·
